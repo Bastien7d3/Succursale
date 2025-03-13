@@ -4,6 +4,11 @@ Ce projet est un exercice de reingénierie de code qui vise à améliorer progre
 
 ## Exécution des tests
 
+Pour exécuter les tests globalement :
+```bash
+mvn test
+```
+
 Pour exécuter les tests de chaque version du projet, utilisez les commandes suivantes :
 
 ```bash
@@ -39,7 +44,7 @@ Fonctionnalités de base :
 - Calcul de salaires
 - Comptage d'employés (total, staff, administratifs)
 
-### Version 2 : Intégration des succursales
+### Version 2 : Intégration des succurCommente moi tous le code pour que cela soit compréhensible par un françaissales
 
 Améliorations apportées :
 - Ajout de la notion de succursales (Subsidiary)
