@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: imt.fisa.reengineering.v4.CompanyTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 s - in imt.fisa.reengineering.v4.CompanyTest
